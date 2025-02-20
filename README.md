@@ -15,6 +15,8 @@ After attending an intensive six-month bootcamp at [@laboratoria](https://github
 :video_game:
 I'm into adventure or coop-games as Legend of Zelda Series, Pokémon, Overcooked, Lego etc (Nintendo player since N64)
 
+![Codewars](https://www.codewars.com/users/moniyama/badges/small)
+
 ---
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
